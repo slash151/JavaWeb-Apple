@@ -1,0 +1,38 @@
+.sign-in-font {
+    width: 980px;
+    margin: 0 auto;
+    padding-top: 54px;
+    padding-bottom: 36px;
+    font-size: 40px;
+}
+
+.user-info {
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 980px;
+    font-size: 20px;
+}
+
+.user-info .input {
+    height: 60px;
+    width: 400px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.user-info .submit {
+    height: 60px;
+    width: 385px;
+    border-radius: 10px;
+}
+
+.register {
+    margin-top: 20px;
+}
+
+.user-info .error {
+    margin-top: 30px;
+    font-size: 18px;
+    color: red
+}
